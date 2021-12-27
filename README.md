@@ -7,6 +7,12 @@
   <br>
   
 </p>
+<p align="left">
+  🔬 I'm currently working on Data Analysis and Deep Learning
+  <br>
+  🌱 My keen interest lies in working with ifferent type of data, apart from Data Analytics, I love to explore Machine Learning and Deep Learning Domain.
+  <br>
+</p>
 
 <h4 align="center">
   ✒️ Languages and Tools ✒️
